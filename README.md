@@ -1,4 +1,4 @@
-# SMARTRAIL
+# SMARTAIL
 ## Histogram Equalisation 
 
 - Histogram is a graphical representation of the intensity distribution of an image. In simple terms, it represents the number of pixels for each intensity value considered.
@@ -40,6 +40,7 @@
 
 - **Equalised Histogram**
 
+![Equalised_histogram](https://user-images.githubusercontent.com/31176045/97713838-5c673500-1ae6-11eb-8e45-a10b35823416.jpg)
 
 
 
