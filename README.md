@@ -29,4 +29,9 @@
 
 - **Original Histogram**
 
+- ![original_hist](https://user-images.githubusercontent.com/31176045/97712527-8fa8c480-1ae4-11eb-9937-390b8cf43ded.jpg)
 
+
+- **Modified image and Histogram**
+
+- 
