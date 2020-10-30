@@ -25,14 +25,17 @@
   
 - **Input Image**
 
-- ![scene](https://user-images.githubusercontent.com/31176045/97712300-42c4ee00-1ae4-11eb-8db8-c92415261ef1.jpg)
+
+![scene](https://user-images.githubusercontent.com/31176045/97712300-42c4ee00-1ae4-11eb-8db8-c92415261ef1.jpg)
 
 - **Original Histogram**
 
-- ![original_hist](https://user-images.githubusercontent.com/31176045/97712527-8fa8c480-1ae4-11eb-9937-390b8cf43ded.jpg)
+
+![original_hist](https://user-images.githubusercontent.com/31176045/97712527-8fa8c480-1ae4-11eb-9937-390b8cf43ded.jpg)
 
 
 - **Modified image and Histogram**
 
-- ![equal_image](https://user-images.githubusercontent.com/31176045/97712632-b666fb00-1ae4-11eb-9338-e9a7939bb1c6.jpg)
+
+![equal_image](https://user-images.githubusercontent.com/31176045/97712632-b666fb00-1ae4-11eb-9338-e9a7939bb1c6.jpg)
 
