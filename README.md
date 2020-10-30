@@ -36,5 +36,10 @@
 
 - **Equalised Image**
 
+![Equalised_image](https://user-images.githubusercontent.com/31176045/97713738-3cd00c80-1ae6-11eb-9a07-1e2e0c48bc2f.jpg)
+
+- **Equalised Histogram**
+
+
 
 
