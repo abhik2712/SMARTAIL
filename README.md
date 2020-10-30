@@ -25,4 +25,8 @@
   
 - **Input Image**
 
+- ![scene](https://user-images.githubusercontent.com/31176045/97712300-42c4ee00-1ae4-11eb-8db8-c92415261ef1.jpg)
+
+- **Original Histogram**
+
 
