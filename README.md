@@ -34,8 +34,7 @@
 ![original_hist](https://user-images.githubusercontent.com/31176045/97712527-8fa8c480-1ae4-11eb-9937-390b8cf43ded.jpg)
 
 
-- **Modified image and Histogram**
+- **Equalised Image**
 
 
-![equal_image](https://user-images.githubusercontent.com/31176045/97712632-b666fb00-1ae4-11eb-9338-e9a7939bb1c6.jpg)
 
