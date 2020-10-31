@@ -43,4 +43,10 @@
 ![Equalised_histogram](https://user-images.githubusercontent.com/31176045/97713838-5c673500-1ae6-11eb-8e45-a10b35823416.jpg)
 
 
+## File Crawler
+
+- Implemented using a **2-D map** data structure to store the path of file and corresponding word count(to search word) present in the particular file.
+
+- This text crawler crawl on textfile whose path is provided in url.txt file and once crawlling is complete it will ask you to enter a word and it will tell you that word is in which. file.
+
 
